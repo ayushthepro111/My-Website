@@ -1,0 +1,84 @@
+h1{
+    color: red;
+    text-align: left;
+    font-family: cursive;
+}
+
+
+h2{
+    text-decoration: underline;
+    color: royalblue;
+    font-family: cursive;
+    font-weight: 500;
+}
+
+body {
+    background-image: url("main.jpeg");
+    background-position: middle;
+    font-family: cursive;
+  }
+
+  body{
+    text-transform: capitalize;
+    text-indent: 20px;
+    font-family: cursive;
+  }
+
+body{
+    letter-spacing: 1px;
+    line-height: 30px;
+    font-family: cursive;
+    border-style: ridge;
+}
+
+body{
+    direction:ltr;
+}
+
+p{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+a{
+    text-indent: 20px;
+    text-align: right;
+    color:limegreen;
+    font-family: cursive;
+    font-size: 19px;
+}
+
+.serif {
+    font-family: Times, "Times New Roman", Georgia, serif;
+  }
+  
+  .sansserif {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+  }
+  
+  .monospace {
+    font-family: "Lucida Console", Courier, monospace;
+  }
+  
+  .cursive {
+    font-family: cursive;
+  }
+  
+  .fantasy {
+    font-family: fantasy;
+  }
+  
+  .emoji {
+    font-family: emoji;
+  }
+  
+  .math {
+    font-family: math;
+  }
+  
+  .fangsong {
+    font-family: fangsong;
+  }
+  
